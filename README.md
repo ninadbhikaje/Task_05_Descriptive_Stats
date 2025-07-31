@@ -18,10 +18,10 @@ Example questions tackled include:
 
 The analysis includes:
 
-📊 Visual summaries (bar charts, pie charts, grouped comparisons)
+1. Visual summaries (bar charts, pie charts, grouped comparisons)
 
-🤖 Prompt engineering experiments with ChatGPT to evaluate reasoning
+2. Prompt engineering experiments with ChatGPT to evaluate reasoning
 
-📈 Jupyter Notebook for replicable, Python-based exploration
+3. Jupyter Notebook for replicable, Python-based exploration
 
 By combining data science and language model reasoning, this project showcases the strengths and limitations of AI-assisted sports analytics, with a focus on generating actionable insights through transparent and explainable methods.
